@@ -60,3 +60,5 @@ request.onload = function (){
     var receivedJson = request.response;
     console.log(receivedJson);
 };
+
+var testGit = 'Git 666';
